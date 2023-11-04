@@ -41,9 +41,5 @@ Here are some of the technologies and tools I work with:
 
 Feel free to reach out if you'd like to collaborate or have any questions. Let's connect and build amazing things together!
 
-## Stats
-
-![Shamim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamimhcp1&show_icons=true&theme=dark)
-
 Thanks for visiting my GitHub page! 😊
 
