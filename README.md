@@ -31,7 +31,7 @@ Here are some of the technologies and tools I work with:
 5. [CS50Web Project 3 - MAIL](https://github.com/shamimhcp1/cs50w-project-3-mail.git): CS50W's fourth project. Design a front-end for an email client that makes API calls to send and receive emails.
 
 **Here are a few projects I'm currently working on:**
-1. [CS50Web's Project 4](https://github.com/shamimhcp1/cs50w-project-4-network.git): CS50 Web's fifth project: Design a Twitter-like social network website for making posts and following users, like other posts, view profile, etc.
+1. [CS50Web's Project 4 - Network](https://github.com/shamimhcp1/cs50w-project-4-network.git): CS50 Web's fifth project: Design a Twitter-like social network website for making posts and following users, like other posts, view profile, etc.
 
 ## Get in Touch
 
