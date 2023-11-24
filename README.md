@@ -37,7 +37,7 @@ Here are some of the technologies and tools I work with:
 
 - GitHub: [GitHub.com/shamimhcp1](https://github.com/shamimhcp1)
 - LinkedIn: [LinkedIn.com/in/shamim-hossain-1a7163234](https://www.linkedin.com/in/shamim-hossain-1a7163234)
-- YouTube: [Visit here to see my project demo and more in YouTube](https://www.youtube.com/channel/UCgEH-jlmAgaQASr4EDVUmRg)
+- YouTube: [Visit my YouTube channel to see projects demo and more.](https://www.youtube.com/channel/UCgEH-jlmAgaQASr4EDVUmRg)
 - Email: shamimhcp@gmail.com
 - Mobile: +8801866292003
 
