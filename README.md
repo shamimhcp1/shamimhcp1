@@ -33,7 +33,7 @@ Here are some of the technologies and tools I work with:
 7. [CS50Web's Final Project - TextileLab Report Builder](https://github.com/shamimhcp1/cs50w-final-project-textile-lab): Create garment test reports with ease! This web app, built using Python and JavaScript, simplifies the process of generating comprehensive lab reports for textiles. It offers a user-friendly interface for entering data and produces detailed reports, making textile testing more efficient.
 
 **Here are a few projects I'm currently working on:**
-1. **Personal Finance Management App:** Create a web-based personal finance management app that helps individuals track and manage their finances effectively. The could provide features for budgeting, expense tracking, savings goals, and financial insights.
+1. **Personal Finance Management App:** Create a web-based personal finance management app that helps individuals track and manage their finances effectively. The app could provide features for budgeting, expense tracking, savings goals, and financial insights.
 
 ## Get in Touch
 
