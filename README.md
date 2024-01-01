@@ -18,7 +18,7 @@ Here are some of the technologies and tools I work with:
 - **Frontend Technologies:** HTML, CSS, Bootstrap, JavaScript, React.js
 - **Database:** PostgreSQL, MySQL, SQLite
 - **Version Control:** Git, GitHub
-- **Tools:** Visual Studio Code, Git, Docker
+- **Tools:** Visual Studio Code, Git
 
 ## Projects
 
@@ -30,9 +30,10 @@ Here are some of the technologies and tools I work with:
 4. [CS50Web Project 2 - COMMERCE](https://github.com/shamimhcp1/cs50w-project-2-commerce.git): CS50W's third project. Design an eBay-like e-commerce auction site that will allow users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist.”
 5. [CS50Web Project 3 - MAIL](https://github.com/shamimhcp1/cs50w-project-3-mail.git): CS50W's fourth project. Design a front-end for an email client that makes API calls to send and receive emails.
 6. [CS50Web's Project 4 - Network](https://github.com/shamimhcp1/cs50w-project-4-network.git): CS50 Web's fifth project: Design a Twitter-like social network website for making posts and following users, like other posts, view profile, etc.
+7. [CS50Web's Final Project - TextileLab Report Builder](https://github.com/shamimhcp1/cs50w-final-project-textile-lab): Create garment test reports with ease! This web app, built using Python and JavaScript, simplifies the process of generating comprehensive lab reports for textiles. It offers a user-friendly interface for entering data and produces detailed reports, making textile testing more efficient.
 
 **Here are a few projects I'm currently working on:**
-1. [CS50Web's Final Project - TextileLab Report Builder](https://github.com/shamimhcp1/cs50w-final-project-textile-lab): Create garment test reports with ease! This web app, built using Python and JavaScript, simplifies the process of generating comprehensive lab reports for textiles. It offers a user-friendly interface for entering data and produces detailed reports, making textile testing more efficient.
+1. **Personal Finance Management App:** Create a web-based personal finance management app that helps individuals track and manage their finances effectively. The could provide features for budgeting, expense tracking, savings goals, and financial insights.
 
 ## Get in Touch
 
