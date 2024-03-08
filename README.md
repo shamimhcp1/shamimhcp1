@@ -22,8 +22,7 @@ Here are some of the technologies and tools I work with:
 
 ### Projects
 
-- 🌐 [Antorbon.com](https://antorbon.com) - A fully functional e-commerce website built with Vite and React for the frontend.
-- 🚀 [Antorbon Backend](https://d.antorbon.com) - The backend system for the Antorbon.com site, responsible for handling product data, user authentication, and order management. Built with Django REST Framework, it provides secure API endpoints for the frontend to interact with. 
+**- 🌐 [Antorbon.com](https://antorbon.com) -** A fully functional e-commerce website built with **Vite** and **React** for the frontend. The backend system for the Antorbon.com site, responsible for handling product data, user authentication, and order management. Built with **Django REST Framework**, it provides secure API endpoints for the frontend to interact with. 
 
 ## Other Projects
 
