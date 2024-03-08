@@ -20,7 +20,12 @@ Here are some of the technologies and tools I work with:
 - **Version Control:** Git, GitHub
 - **Tools:** Visual Studio Code, Git
 
-## Projects
+### Projects
+
+- 🌐 [Antorbon.com](https://antorbon.com) - A fully functional e-commerce website built with Vite and React for the frontend.
+- 🚀 [Antorbon Backend](https://d.antorbon.com) - The backend system for the Antorbon.com site, responsible for handling product data, user authentication, and order management. Built with Django REST Framework, it provides secure API endpoints for the frontend to interact with. 
+
+## Other Projects
 
 **Here are a few projects I've worked on:**
 
@@ -31,9 +36,6 @@ Here are some of the technologies and tools I work with:
 5. [CS50Web Project 3 - MAIL](https://github.com/shamimhcp1/cs50w-project-3-mail.git): CS50W's fourth project. Design a front-end for an email client that makes API calls to send and receive emails.
 6. [CS50Web's Project 4 - Network](https://github.com/shamimhcp1/cs50w-project-4-network.git): CS50 Web's fifth project: Design a Twitter-like social network website for making posts and following users, like other posts, view profile, etc.
 7. [CS50Web's Final Project - TextileLab Report Builder](https://github.com/shamimhcp1/cs50w-final-project-textile-lab): Create garment test reports with ease! This web app, built using Python and JavaScript, simplifies the process of generating comprehensive lab reports for textiles. It offers a user-friendly interface for entering data and produces detailed reports, making textile testing more efficient.
-
-**Here are a few projects I'm currently working on:**
-1. **Personal Finance Management App:** Create a web-based personal finance management app that helps individuals track and manage their finances effectively. The app could provide features for budgeting, expense tracking, savings goals, and financial insights.
 
 ## Get in Touch
 
