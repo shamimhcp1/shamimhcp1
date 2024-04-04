@@ -13,9 +13,9 @@ I'm a web developer with a focus on Python, Django and React. I'm passionate abo
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** Python
-- **Web Frameworks:** Django, REST framework
-- **Frontend Technologies:** HTML, CSS, Bootstrap, JavaScript, Vite.js, React.js
+- **Programming Languages:** Python, JavaScript/TypeScript, php
+- **Web Frameworks:** Django, REST framework, Laravel, Nextjs, Vitejs
+- **Frontend Technologies:** HTML, CSS, Bootstrap, Tailwindcss, JavaScript, React.js
 - **Database:** PostgreSQL, MySQL, SQLite
 - **Version Control:** Git, GitHub
 - **Tools:** Visual Studio Code, Git
