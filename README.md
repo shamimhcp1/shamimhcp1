@@ -1,24 +1,38 @@
 # Hi there, I'm Shamim Hossain 👋
+*Founder | Full-Stack Developer | SaaS Architect*
 
 I'm a web developer with a focus on Python, Django and React. I'm passionate about creating web applications and solving real-world problems through technology. Welcome to my GitHub page!
 
 ## About Me
 
-- 🔭 I’m currently working on exciting web development projects.
-- 🌱 I’m constantly learning and improving my skills.
-- 👯 I’m open to collaboration on interesting projects.
-- 💬 Ask me about Python, Django, web development, or anything tech-related.
+- I'm a product-focused full-stack developer passionate about building scalable systems that power real businesses.
+
+Founder of [CommerceFIY](https://commercefiy.com) — a modern, all-in-one SaaS ERP platform designed for ambitious businesses to manage sales, inventory, accounting, HRM, and operations — effortlessly.
+
+## What I Do
+
+- Laravel Backend Architect — REST API First, Clean Code, Modular Systems
+- Next.js Frontend Engineer — Modern UI with ShadCN, TailwindCSS, Zustand
+- Multi-Tenant SaaS Development — Subdomain Driven, Role-Based Access
+- E-commerce & POS Systems — Inventory, Orders, Payments, Stock Control
+- Automation & Integrations — Payment Gateways, Delivery API, Notification Systems
+- Branding & Business Strategy — Customer Experience First Approach
 
 ## Tech Stack
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** Python, JavaScript/TypeScript, php
+- **Programming Languages:** Python, JavaScript/TypeScript, PHP / Laravel
 - **Web Frameworks:** Django, REST framework, Laravel, Nextjs, Vitejs
-- **Frontend Technologies:** HTML, CSS, Bootstrap, Tailwindcss, JavaScript, React.js
+- **Frontend Technologies:** HTML, CSS, Bootstrap, Tailwindcss, JavaScript, React.js, ShadCN UI  
 - **Database:** PostgreSQL, MySQL, SQLite
-- **Version Control:** Git, GitHub
-- **Tools:** Visual Studio Code, Git
+- **Version Control:** Git, GitHub, CI-CD
+- **Tools:** Visual Studio Code, Git, Cloudflare R2 / AWS S3
+
+## Current Focus 🚀
+
+> Architecting *CommerceFIY* — an All-in-One SaaS ERP solution that helps businesses grow with control, clarity, and confidence.
+
 
 ## Projects
 
@@ -38,13 +52,14 @@ Here are some of the technologies and tools I work with:
 
 ## Get in Touch
 
+- Website: [https://commercefiy.com](https://commercefiy.com)
 - GitHub: [GitHub.com/shamimhcp1](https://github.com/shamimhcp1)
 - LinkedIn: [LinkedIn.com/in/shamim-hossain-1a7163234](https://www.linkedin.com/in/shamim-hossain-1a7163234)
 - YouTube: [Visit my YouTube channel to see projects demo and more.](https://www.youtube.com/channel/UCgEH-jlmAgaQASr4EDVUmRg)
 - Email: shamimhcp@gmail.com
 - Mobile: +8801866292003
 
-Feel free to reach out if you'd like to collaborate or have any questions. Let's connect and build amazing things together!
+*"I don't just build apps — I build systems that run businesses."*
 
 Thanks for visiting my GitHub page! 😊
 
