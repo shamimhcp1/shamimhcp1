@@ -1,8 +1,6 @@
 # Hi there, I'm Shamim Hossain 👋
 *Founder | Full-Stack Developer | SaaS Architect*
 
-I'm a web developer with a focus on Python, Django and React. I'm passionate about creating web applications and solving real-world problems through technology. Welcome to my GitHub page!
-
 ## About Me
 
 - I'm a product-focused full-stack developer passionate about building scalable systems that power real businesses.
