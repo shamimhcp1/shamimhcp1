@@ -1,5 +1,5 @@
 # Hi there, I'm Shamim Hossain 👋
-*Founder | Full-Stack Developer | SaaS Architect*
+*Founder | Full-Stack Web Developer | SaaS Architect*
 
 ## About Me
 
