@@ -5,7 +5,7 @@
 
 - I'm a product-focused full-stack developer passionate about building scalable systems that power real businesses.
 
-Founder of [CommerceFIY](https://commercefiy.com) — a modern, all-in-one SaaS ERP platform designed for ambitious businesses to manage sales, inventory, accounting, HRM, and operations — effortlessly.
+Founder of [Commercefiy](https://commercefiy.com) — a modern, all-in-one SaaS ERP platform designed for ambitious businesses to manage sales, inventory, accounting, HRM, and operations — effortlessly.
 
 ## What I Do
 
@@ -29,7 +29,7 @@ Here are some of the technologies and tools I work with:
 
 ## Current Focus 🚀
 
-> Architecting *CommerceFIY* — an All-in-One SaaS ERP solution that helps businesses grow with control, clarity, and confidence.
+> Architecting *Commercefiy* — an All-in-One SaaS ERP solution that helps businesses grow with control, clarity, and confidence.
 
 
 ## Projects
